@@ -10,7 +10,7 @@
 ```
 
 ### Issatay Tokpakbayev · Backend Engineer
-**Rust · Low-Latency · Web3 · Almaty, KZ**
+**Rust · Low-Latency · Web3 · AI · Almaty, KZ**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issatay-tokpakbayev-305b86280/)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20Rust%20Roles-16a34a?style=flat-square)](mailto:)
