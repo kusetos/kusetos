@@ -1,8 +1,8 @@
 <div align="center">
 
 ```
-██████╗ ██╗   ██╗███████╗████████╗
-██╔══██╗██║   ██║██╔════╝╚══██╔══╝
+ ██████╗ ██╗   ██╗███████╗████████╗
+ ██╔══██╗██║   ██║██╔════╝╚══██╔══╝
 ██████╔╝██║   ██║███████╗   ██║
 ██╔══██╗██║   ██║╚════██║   ██║
 ██║  ██║╚██████╔╝███████║   ██║
@@ -16,6 +16,36 @@
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20Rust%20Roles-16a34a?style=flat-square)](mailto:)
 
 </div>
+
+---
+
+## Background
+
+```
+2024 – now   Backend Engineer @ KASE (HFT infra, Aeron IPC, market data feeds)
+2023 – 2024  Rust Engineer @ GMG (real-time microservices at scale)
+2022 – 2023  Backend Developer @ Altyn Bank (C#/.NET, blockchain APIs)
+```
+
+I'm also a **KBTU** (Kazakh-British Technical University) student — which means I spend my weekends alternating between reading papers on cognitive science and debugging `rdkafka` consumer group offsets.
+
+---
+
+## Tech I Reach For
+
+```rust
+let stack = vec![
+    "Rust (async, unsafe, FFI, macros)",
+    "Axum / Actix-web / Tokio",
+    "PostgreSQL + sqlx",
+    "Apache Kafka / rdkafka",
+    "Redis",
+    "Solana / Anchor",
+    "Docker / Kubernetes",
+    "Aeron IPC",
+    "C# / .NET (previous life)",
+];
+```
 
 ---
 
@@ -44,36 +74,6 @@ Stack: Axum · Tokio · sqlx · rdkafka · PostgreSQL · Redis · Kafka · Docke
 ```
 
 The architecture is intentional: prices are fetched server-side from Catalog so the client can never manipulate them. Stock is decremented asynchronously via `order-created` Kafka events. The gateway validates JWT and injects `x-user-id` so downstream services never touch auth logic.
-
----
-
-## Tech I Reach For
-
-```rust
-let stack = vec![
-    "Rust (async, unsafe, FFI, macros)",
-    "Axum / Actix-web / Tokio",
-    "PostgreSQL + sqlx",
-    "Apache Kafka / rdkafka",
-    "Redis",
-    "Solana / Anchor",
-    "Docker / Kubernetes",
-    "Aeron IPC",
-    "C# / .NET (previous life)",
-];
-```
-
----
-
-## Background
-
-```
-2024 – now   Backend Engineer @ KASE (HFT infra, Aeron IPC, market data feeds)
-2023 – 2024  Rust Engineer @ GMG (real-time microservices at scale)
-2022 – 2023  Backend Developer @ Altyn Bank (C#/.NET, blockchain APIs)
-```
-
-I'm also a **KBTU** (Kazakh-British Technical University) student — which means I spend my weekends alternating between reading papers on cognitive science and debugging `rdkafka` consumer group offsets.
 
 ---
 
