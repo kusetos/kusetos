@@ -3,10 +3,10 @@
 ```
  ██████╗ ██╗   ██╗███████╗████████╗
  ██╔══██╗██║   ██║██╔════╝╚══██╔══╝
-██████╔╝██║   ██║███████╗   ██║
-██╔══██╗██║   ██║╚════██║   ██║
-██║  ██║╚██████╔╝███████║   ██║
-╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
+ ██████╔╝██║   ██║███████╗   ██║
+ ██╔══██╗██║   ██║╚════██║   ██║
+ ██║  ██║╚██████╔╝███████║   ██║
+ ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝
 ```
 
 ### Issatay Tokpakbayev · Backend Engineer
@@ -23,12 +23,9 @@
 
 ```
 2024 – now   Backend Engineer @ KASE (HFT infra, Aeron IPC, market data feeds)
-2023 – 2024  Rust Engineer @ GMG (real-time microservices at scale)
-2022 – 2023  Backend Developer @ Altyn Bank (C#/.NET, blockchain APIs)
+2023 – 2024  Rust Engineer @ GMG (real-time game microservices at scale)
+2022 – 2023  Backend Developer @ Altyn Bank (C#/.NET)
 ```
-
-I'm also a **KBTU** (Kazakh-British Technical University) student — which means I spend my weekends alternating between reading papers on cognitive science and debugging `rdkafka` consumer group offsets.
-
 ---
 
 ## Tech I Reach For
@@ -43,7 +40,9 @@ let stack = vec![
     "Solana / Anchor",
     "Docker / Kubernetes",
     "Aeron IPC",
+    "Python",
     "C# / .NET (previous life)",
+    "Unity Engine",
 ];
 ```
 
@@ -57,7 +56,7 @@ By day I'm building low-latency trading infrastructure at **KASE** (Kazakhstan S
 
 I also have production **Solana** smart contract experience, and I've spent enough time in the HFT trenches to care deeply about things like memory allocator behavior and kernel bypass networking.
 
-Currently looking for **remote mid/senior Rust or backend roles** — trading infrastructure, systems, Web3, or anywhere the work is genuinely hard.
+Currently looking for **remote mid+ Rust or backend roles** — trading infrastructure, systems, Web3, or anywhere the work is genuinely hard.
 
 ---
 
