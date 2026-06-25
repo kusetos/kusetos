@@ -22,9 +22,9 @@
 ## Background
 
 ```
-2024 – now   Backend Engineer @ KASE (HFT infra, Aeron IPC, market data feeds)
-2023 – 2024  Rust Engineer @ GMG (real-time game microservices at scale)
-2022 – 2023  Backend Developer @ Altyn Bank (C#/.NET)
+2025 – now   Backend Engineer @ KASE (HFT infra, Aeron IPC, market data feeds)
+2022 – 2025  Rust Engineer @ GMG (real-time game microservices at scale)
+2021 – 2022  Backend Developer @ Altyn Bank (C#/.NET)
 ```
 ---
 
